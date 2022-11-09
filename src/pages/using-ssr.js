@@ -13,7 +13,7 @@ const UsingSSR = ({ serverData }) => {
       </h1>
       <p>
         This page is rendered server side every time the page is requested.
-        Reload it to see a(nother) random photo from{" "}
+        Reload it to see another random photo from{" "}
         <code>dog.ceo/api/breed/shiba/images/random</code>:
       </p>
       <img
