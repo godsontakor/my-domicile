@@ -31,6 +31,12 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
   },
+  {
+    text: "Twitter Page",
+    url: "https://twitter.com/takorgodson",
+    description:
+      "Visit my twitter Page for more info",
+  },
 ]
 
 const samplePageLinks = [
