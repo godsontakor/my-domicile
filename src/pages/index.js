@@ -37,6 +37,12 @@ const links = [
     description:
       "Visit my twitter Page for more info",
   },
+  {
+    text: "Bleach Page",
+    url: "https://linkedin.com",
+    description:
+      "Zanka notachi",
+  },
 ]
 
 const samplePageLinks = [
