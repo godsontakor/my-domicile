@@ -1,11 +1,17 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import { Helmet } from "react-helmet"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 
+{/* <Helmet>
+<html lang="en" />
+<title>{site.siteMetadata.title}</title>
+<meta name="google-site-verification" content="rdHgeMNE19n12zlkjsfSKFLDS23MuTFSHl8lQPesFHLk21oU"/>
+</Helmet> */}
 const links = [
   {
     text: "Tutorial",
@@ -41,7 +47,7 @@ const links = [
     text: "Bleach Page",
     url: "https://linkedin.com",
     description:
-      "Zanka notachi",
+      "Zanka notachi by Yama",
   },
 ]
 
